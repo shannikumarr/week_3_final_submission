@@ -31,7 +31,7 @@ Try it live: [Hugging Face Space](https://huggingface.co/spaces/k087/garbage_cla
 
 ---
 
-## 📁 Files in This Repo
+## 📁 Files on huggingface
 
 | File               | Description                                  |
 |--------------------|----------------------------------------------|
