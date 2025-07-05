@@ -3,7 +3,7 @@
 This project is an image classification app that uses a trained deep learning model to identify types of waste — including cardboard, glass, metal, paper, plastic, and trash. It uses a **TensorFlow model** with **Gradio UI** for easy interaction and deployment.
 
 ## 🔍 Demo
-Try it live: [Hugging Face Space](https://huggingface.co/spaces/k087/garbage_classification)
+Try it live: [Hugging Face Space](https://huggingface.co/spaces/k087/garbage_classification) ##(https://huggingface.co/spaces/k087/garbage_classification)
 
 ---
 
