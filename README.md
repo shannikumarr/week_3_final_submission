@@ -42,12 +42,3 @@ Try it live: [Hugging Face Space](https://huggingface.co/spaces/k087/garbage_cla
 
 ---
 
-## 🛠 Requirements
-
-Make sure these packages are available (automatically installed on Hugging Face Spaces):
-
-```txt
-tensorflow
-gradio
-numpy
-Pillow
